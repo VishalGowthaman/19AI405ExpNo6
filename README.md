@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:  ARAVIND SAMY.P</h3>
-<h3>Register Number: 212222230011</h3>
+<h3>Name:  VISHAL GOWTHAMAN K R</h3>
+<h3>Register Number: 2122212301323</h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
